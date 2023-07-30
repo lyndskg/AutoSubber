@@ -1,6 +1,6 @@
-# AutoSub
+# AutoSubber
 
-AutoSub is an advanced coding project that aims to automatically generate accurate and synchronized subtitles for movies and other videos. The project utilizes Machine Learning (ML) and Natural Language Processing (NLP) techniques to transcribe the speech from audio tracks and produce high-quality subtitles.
+AutoSubber is an advanced coding project that aims to automatically generate accurate and synchronized subtitles for movies and other videos. The project utilizes Machine Learning (ML) and Natural Language Processing (NLP) techniques to transcribe the speech from audio tracks and produce high-quality subtitles.
 
 ## Key Features:
 1. Audio Transcription: Implement an ML-based audio transcription system that converts the speech from videos into text. Use popular libraries or pre-trained models for speech-to-text conversion.
